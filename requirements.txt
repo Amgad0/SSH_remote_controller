@@ -1,0 +1,2 @@
+paramiko>=2.12.0
+nuitka>=1.8.0 
